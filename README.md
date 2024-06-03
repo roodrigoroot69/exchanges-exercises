@@ -3,7 +3,7 @@
 
 **Propuesta uno:**
 
-[Propuesta uno](https://github.com/roodrigoroot69/exchanges-exercises/tree/main/Propuesta%20uno "Propuesta uno")
+[Ir Propuesta uno](https://github.com/roodrigoroot69/exchanges-exercises/tree/main/Propuesta%20uno "Propuesta uno")
 
 **Propuesta dos:**
 
